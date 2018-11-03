@@ -111,5 +111,6 @@
     - [廖雪峰老师的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ## 持续更新
+如果你觉得还不错，不介意的话点个 `Star`
 你可以在 issues 向我留言 首先你要注册Github
 ![](img/liuyan.png)
