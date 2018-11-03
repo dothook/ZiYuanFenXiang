@@ -51,7 +51,7 @@
     + [Tensorflow](https://tensorflow.google.cn/) `机器学习`
     + [Django](https://www.djangoproject.com/)
     + [Flask](http://docs.jinkan.org/docs/flask/)
-### Electorn `(很有意思的一个库,可以用 Html+css+JavaScript 用Node.js来写桌面应用程序)`
+### Electorn `(很有意思的一个库,可以用 Html+css+JavaScript+Node.js来写桌面应用程序)`
 * [Electorn 官方文档](http://electronjs.org/docs)
 ### PHP
 * 不难 [官方文档](http://php.net/manual/zh/) 基础打好 语法和C++类似
