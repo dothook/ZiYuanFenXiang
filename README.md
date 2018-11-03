@@ -113,5 +113,5 @@
 
 ## 持续更新
 如果你觉得还不错，不介意的话点个 `Star`
-你可以在 issues 向我留言 首先你要注册Github
+你可以在 issues 向我留言
 ![](img/liuyan.png)
