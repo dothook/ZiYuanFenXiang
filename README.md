@@ -41,8 +41,8 @@
 * 补充: 需要前端基础`(Html CSS JavaScript)`
 * 官方文档: [Vue.js](https://cn.vuejs.org/v2/guide/)
 * 视频: [Vue.js](https://www.bilibili.com/video/av24826984?from=search&seid=4226900069019711864) 教程一般 有基础的可以看官方文档,配合教程中 Webpack 相关知识口味更佳
-### Python (学习Web安全的 Python已经成为必学语言了, 推荐学习 Python3)
-* 视频: 可以去 [B站](https://www.bilibili.com) 找找
+### Python (安全界内Python已经成为通用poc编写工具)
+* 视频: 可以去 [B站](https://www.bilibili.com) 找找 (推荐学习Python3 Python2其实相差不多)
 * 书籍: 《Python核心编程》 我看的书
 * 有C++基础的可以看下 Python C++ 扩展 在某些场景可以提高Python运行效率
 * 库:
